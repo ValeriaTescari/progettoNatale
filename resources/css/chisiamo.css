@@ -1,0 +1,104 @@
+
+body{
+    color: black;
+}
+h6{
+    margin-top: 10px;
+}
+.box-chi-siamo{
+    height: 500px;
+    width: 500px;
+}
+
+.casaBBNataleImg{
+     height: 500px;
+    width: 500px;
+    background-image: url(/public/media/casa-babbo-natale.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3% 3% 3% ;
+}
+/* body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.timeline {
+    position: relative;
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.event {
+    position: relative;
+    background-color: #fff;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    margin: 50px 0;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.event-content {
+    max-width: 600px;
+}
+
+.event h2 {
+    color: #333;
+}
+
+.event p {
+    color: #777;
+}
+
+.event::before {
+    content: attr(data-year);
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #3498db;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+} */
+
+.MagBBNataleImg{
+    height: 500px;
+    width: 500px;
+    background-image: url(/public/media/magazzionoNatale.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3% 3% 3% ;
+}
+
+.imballoBBNatale{
+     height: 500px;
+    width: 500px;
+    background-image: url(/public/media/imballoRegaliNatale.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3% 3% 3% ;
+}
+.spedizioneBBNatale{
+    height: 500px;
+    width: 500px;
+    background-image: url(/public/media/spedizione-natale.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 3% 3% 3% ;
+}

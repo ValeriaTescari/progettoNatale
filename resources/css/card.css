@@ -1,0 +1,30 @@
+.card img{
+    height: 230px;
+}
+.card{
+    margin-bottom: 100px;
+box-shadow: 5px 5px 10px darkgreen;
+text-align: center;
+} 
+
+
+
+
+.card-body{
+   height: 90px;
+    width:100%;
+    background-image: url(/public/media/bg-natale3.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+
+
+
+.card55{
+    height: auto;
+    width: 30vw;
+}

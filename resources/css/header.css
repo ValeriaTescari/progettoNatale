@@ -1,0 +1,25 @@
+
+
+
+.header-img{
+    height: 600px;
+    width: 100%;
+    background-image: url(/public/media/nataleHeader.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.header-img1{
+    height: 600px;
+    width: 100%;
+    background-image: url(/public/media/chisiamo.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.header-img2{
+    height: 600px;
+    width: 100%;
+    background-image: url(/public/media/img-natale.jpeg);
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,12 @@
+.footerImg{ 
+    background-image: url(/public/media/bg-natale2.jpeg);
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+.footerText{
+    
+    font-weight: 600;
+    color: black;
+}
